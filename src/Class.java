@@ -3,9 +3,9 @@ public class Class {
     private String soz;
 
     public Class(int nomer, String soz) {
-        this.nomer = nomer;
-        this.soz = soz;
-    }
+
+        this.nomer =nomer;
+        this.soz =soz;}
 
 
     public int getNomer() {
@@ -23,6 +23,14 @@ public class Class {
     public void setSoz(String soz) {
         this.soz = soz;
     }
+
+
+
+
+
+
+
+
 }
 
 
